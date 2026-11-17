@@ -1,0 +1,13 @@
+E:\Mojrian_Zisalah\ExecutorManagementSystem\src\backend\ExecutorManagementSystem.Domain\bin\Debug\net11.0\ExecutorManagementSystem.Domain.deps.json
+E:\Mojrian_Zisalah\ExecutorManagementSystem\src\backend\ExecutorManagementSystem.Domain\bin\Debug\net11.0\ExecutorManagementSystem.Domain.dll
+E:\Mojrian_Zisalah\ExecutorManagementSystem\src\backend\ExecutorManagementSystem.Domain\bin\Debug\net11.0\ExecutorManagementSystem.Domain.pdb
+E:\Mojrian_Zisalah\ExecutorManagementSystem\src\backend\ExecutorManagementSystem.Domain\obj\Debug\net11.0\ExecutorManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mojrian_Zisalah\ExecutorManagementSystem\src\backend\ExecutorManagementSystem.Domain\obj\Debug\net11.0\ExecutorManagementSystem.Domain.AssemblyInfoInputs.cache
+E:\Mojrian_Zisalah\ExecutorManagementSystem\src\backend\ExecutorManagementSystem.Domain\obj\Debug\net11.0\ExecutorManagementSystem.Domain.AssemblyInfo.cs
+E:\Mojrian_Zisalah\ExecutorManagementSystem\src\backend\ExecutorManagementSystem.Domain\obj\Debug\net11.0\ExecutorManagementSystem.Domain.csproj.CoreCompileInputs.cache
+E:\Mojrian_Zisalah\ExecutorManagementSystem\src\backend\ExecutorManagementSystem.Domain\obj\Debug\net11.0\ExecutorManagementSystem.Domain.sourcelink.json
+E:\Mojrian_Zisalah\ExecutorManagementSystem\src\backend\ExecutorManagementSystem.Domain\obj\Debug\net11.0\ExecutorManagementSystem.Domain.dll
+E:\Mojrian_Zisalah\ExecutorManagementSystem\src\backend\ExecutorManagementSystem.Domain\obj\Debug\net11.0\refint\ExecutorManagementSystem.Domain.dll
+E:\Mojrian_Zisalah\ExecutorManagementSystem\src\backend\ExecutorManagementSystem.Domain\obj\Debug\net11.0\ExecutorManagementSystem.Domain.pdb
+E:\Mojrian_Zisalah\ExecutorManagementSystem\src\backend\ExecutorManagementSystem.Domain\obj\Debug\net11.0\ref\ExecutorManagementSystem.Domain.dll
+E:\Mojrian_Zisalah\ExecutorManagementSystem\src\backend\ExecutorManagementSystem.Domain\obj\Debug\net11.0\Executor.8C213BB5.Up2Date

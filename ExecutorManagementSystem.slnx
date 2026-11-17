@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/backend/">
+    <Project Path="src/backend/ExecutorManagementSystem.Api/ExecutorManagementSystem.Api.csproj" />
+    <Project Path="src/backend/ExecutorManagementSystem.Application/ExecutorManagementSystem.Application.csproj" />
+    <Project Path="src/backend/ExecutorManagementSystem.Domain/ExecutorManagementSystem.Domain.csproj" />
+    <Project Path="src/backend/ExecutorManagementSystem.Infrastructure/ExecutorManagementSystem.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+  <Folder Name="/tests/backend/">
+    <Project Path="tests/backend/ExecutorManagementSystem.Application.Tests/ExecutorManagementSystem.Application.Tests.csproj" />
+  </Folder>
+</Solution>
